@@ -27,6 +27,14 @@ I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG Col
 🌱 Currently learning advanced full-stack development and AI/ML  
 🎯 Goal: To contribute to open-source and build impactful technology solutions
 
+### 🏫 College Organization Contributions
+
+I actively contribute to **[NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd)**, working on college-related projects including:
+
+- **CSE-B Attendance Scraper**: Automated attendance tracking system for our department
+- **Mail Templates**: Email template system for college communications  
+- Various college management and automation tools
+
 ---
 
 ## 🎓 Education
