@@ -60,13 +60,10 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
                   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
                       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-                        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-                          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-                          </p>
+                        
+                                                    </p>
 
 ### Programming Languages
-```text
-C | C++ | Python | JavaScript
 ```
 
 ### Web Development
