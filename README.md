@@ -52,6 +52,8 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 
 ## 💻 Technical Skills
 
+### Programming Languages
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -66,9 +68,6 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
                       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
                         
                                                    
-
-### Programming Languages
-
 
 ### Web Development
 - **Frontend:** HTML, CSS, JavaScript, React
