@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2025). I'm passionate about building innovative applications and exploring AI/ML technologies.
+I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2027). I'm passionate about building innovative applications and exploring AI/ML technologies.
 
 🚀 I built and deployed the **'nnrg campus'** app to the Indus app store  
 💡 I love experimenting with AI-assisted applications and automation tools  
@@ -33,7 +33,7 @@ I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG Col
 
 **🏫 B.Tech in Computer Science & Engineering**  
 📍 NNRG College  
-📅 2021 - 2025 (Expected Graduation)  
+📅 2023 - 2027 (Expected Graduation)  
 🎯 Focus Areas: Software Development, AI/ML, Mobile App Development, Web Technologies
 
 ---
@@ -137,7 +137,7 @@ Check out my repositories below for more exciting projects!
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2027
 
 ✅ Contribute to open-source projects  
 ✅ Build more AI-powered applications  
