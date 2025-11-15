@@ -8,13 +8,17 @@
 <h3 align="center">🎓 CS Student | 💻 Full-Stack Developer | 📱 App Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Available"/>
+  </p>
+
+<p align="center">
   <a href="https://github.com/KasabuNikhilGoud">
     <img src="https://komarev.com/ghpvc/?username=KasabuNikhilGoud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/KasabuNikhilGoud?tab=followers">
     <img src="https://img.shields.io/github/followers/KasabuNikhilGoud?label=Followers&style=social" alt="followers" />
   </a>
-</p>
+
 
 ---
 
