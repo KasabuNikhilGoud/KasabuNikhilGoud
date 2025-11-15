@@ -1,16 +1,179 @@
-## Hi there 👋
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kasabu%20Nikhil%20Goud&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-<!--
-**KasabuNikhilGoud/KasabuNikhilGoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Kasabu Nikhil Goud</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🎓 CS Student | 💻 Full-Stack Developer | 📱 App Developer | 🤖 AI Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/KasabuNikhilGoud">
+    <img src="https://komarev.com/ghpvc/?username=KasabuNikhilGoud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/KasabuNikhilGoud?tab=followers">
+    <img src="https://img.shields.io/github/followers/KasabuNikhilGoud?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2025). I'm passionate about building innovative applications and exploring AI/ML technologies.
+
+🚀 I built and deployed the **'nnrg campus'** app to the Indus app store  
+💡 I love experimenting with AI-assisted applications and automation tools  
+🌱 Currently learning advanced full-stack development and AI/ML  
+🎯 Goal: To contribute to open-source and build impactful technology solutions
+
+---
+
+## 🎓 Education
+
+**🏫 B.Tech in Computer Science & Engineering**  
+📍 NNRG College  
+📅 2021 - 2025 (Expected Graduation)  
+🎯 Focus Areas: Software Development, AI/ML, Mobile App Development, Web Technologies
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+```text
+C | C++ | Python | JavaScript
+```
+
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** SQL, Database Management
+
+### Mobile Development
+- Android App Development
+- Cross-platform frameworks
+
+### AI/ML & Data
+- Machine Learning fundamentals
+- Data Analysis
+- AI-assisted application development
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Database Management Systems
+- Automation Tools
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 NNRG Campus App
+**Built and deployed** college app to Indus app store  
+- Complete campus management solution
+- Student information system
+- Deployed to production despite not completing the related course
+- Technologies: Android, Mobile Development
+
+### 📊 Attendance Scraper
+**Automated attendance tracking system**
+- Web scraping solution for attendance monitoring
+- Automation of repetitive tasks
+- Technologies: Python, Selenium
+
+### 🎯 Maven Project
+**Enterprise-level Java application**
+- Project management using Maven
+- Building scalable Java applications
+- Technologies: Java, Maven
+
+### 💼 More Projects
+Check out my repositories below for more exciting projects!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasabuNikhilGoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasabuNikhilGoud&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasabuNikhilGoud&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔥 Advanced React and Full-Stack Development
+- 🤖 Deep Learning and Neural Networks
+- ☁️ Cloud Technologies (AWS, Azure)
+- 🐳 Docker and Kubernetes
+- 📊 Data Science and Analytics
+
+---
+
+## 🎯 Goals for 2025
+
+✅ Contribute to open-source projects  
+✅ Build more AI-powered applications  
+✅ Complete B.Tech with excellent grades  
+✅ Secure a good placement in top tech company  
+✅ Learn cloud computing and DevOps
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
+
+</div>
+
+---
+
+## 💡 Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Show some love by starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
