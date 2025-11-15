@@ -65,10 +65,10 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
                       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
                         
-                                                    </p>
+                                                   
 
 ### Programming Languages
-```
+
 
 ### Web Development
 - **Frontend:** HTML, CSS, JavaScript, React
