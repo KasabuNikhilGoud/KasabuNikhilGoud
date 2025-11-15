@@ -26,7 +26,8 @@
 
 I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2027). I'm passionate about building innovative applications and exploring AI/ML technologies.
 
-🚀 I built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store💡 I love experimenting with AI-assisted applications and automation tools  
+🚀 I built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store
+💡I love experimenting with AI-assisted applications and automation tools  
 🌱 Currently learning advanced full-stack development and AI/ML  
 🎯 Goal: To contribute to open-source and build impactful technology solutions
 
