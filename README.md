@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hey, I'm Kasabu Nikhil Goud</h1>
 
-<h3 align="center">🎓 CS Student | 💻 Full-Stack Developer | 📱 App Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🎓 CS Student | 💻 Full-Stack Developer | 📱 App Developer | 🤖 AI Enthusiast | 🧠 Prompt Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge" alt="Available"/>
