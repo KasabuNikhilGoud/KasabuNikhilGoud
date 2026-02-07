@@ -89,7 +89,7 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 - **Version Control:** Git, GitHub
 - **IDEs:** VS Code, Android Studio
 - **Automation:** Selenium, Web Scraping
-- **Other:** Maven, Database Management Tools
+- **Other:** Database Management Tools
 
 ---
 
@@ -101,7 +101,6 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 |---------|-------------|--------------|
 | **📱 [NNRG Campus App](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** | Complete campus management solution deployed to Indus App Store | Android, Mobile Development |
 | **📊 Attendance Scraper** | Automated attendance tracking system using web scraping | Python, Selenium |
-| **🎯 Maven Project** | Enterprise-level Java application with Maven | Java, Maven |
 
 </div>
 
@@ -118,11 +117,6 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 - ✅ Web scraping solution for attendance monitoring
 - ✅ Reduces manual effort and improves accuracy
 
-#### 🎯 Maven Project
-- ✅ Enterprise-level Java application development
-- ✅ Project management using industry-standard Maven
-- ✅ Building scalable and maintainable applications
-
 > 💼 **Check out my repositories for more exciting projects!**
 
 ---
@@ -130,12 +124,12 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasabuNikhilGoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasabuNikhilGoud&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasabuNikhilGoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasabuNikhilGoud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasabuNikhilGoud&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KasabuNikhilGoud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -143,7 +137,7 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KasabuNikhilGoud&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KasabuNikhilGoud&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -151,7 +145,7 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasabuNikhilGoud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasabuNikhilGoud&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
