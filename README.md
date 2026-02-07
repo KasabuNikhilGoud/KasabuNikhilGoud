@@ -26,10 +26,12 @@
 
 I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2027). I'm passionate about building innovative applications and exploring AI/ML technologies.
 
-🚀 I built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store
-💡I love experimenting with AI-assisted applications and automation tools  
-🌱 Currently learning advanced full-stack development and AI/ML  
-🎯 Goal: To contribute to open-source and build impactful technology solutions
+- 🚀 Built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store
+- 💡 Love experimenting with AI-assisted applications and automation tools  
+- 🌱 Currently learning advanced full-stack development and AI/ML  
+- 🎯 Goal: To contribute to open-source and build impactful technology solutions
+- 💼 Open to collaboration on exciting projects
+- 📧 Reach me at: **kasabunikil@gmail.com**
 
 ### 🏫 College Organization Contributions
 
@@ -52,68 +54,71 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 
 ## 💻 Technical Skills
 
-### Programming Languages
+<div align="center">
+
+### 🔧 Languages & Frameworks
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
-              <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-                  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-                        
-                                                   
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css,nodejs,mongodb,mysql,git,vscode,github,express,selenium" alt="tech stack" />
+</p>
 
-### Web Development
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** SQL, Database Management
+</div>
 
-### Mobile Development
+### 🌐 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB, Database Management Systems
+
+### 📱 Mobile Development
 - Android App Development
 - Cross-platform frameworks
+- Mobile UI/UX Design
 
-### AI/ML & Data
+### 🤖 AI/ML & Data Science
 - Machine Learning fundamentals
-- Data Analysis
+- Data Analysis & Visualization
 - AI-assisted application development
+- Python for Data Science
 
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Database Management Systems
-- Automation Tools
+### 🛠️ Tools & Technologies
+- **Version Control:** Git, GitHub
+- **IDEs:** VS Code, Android Studio
+- **Automation:** Selenium, Web Scraping
+- **Other:** Maven, Database Management Tools
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 NNRG Campus App
-**Built and deployed** college app to Indus app store  
-- Complete campus management solution
-- Student information system
-- Deployed to production despite not completing the related course
-- Technologies: Android, Mobile Development
+<div align="center">
 
-### 📊 Attendance Scraper
-**Automated attendance tracking system**
-- Web scraping solution for attendance monitoring
-- Automation of repetitive tasks
-- Technologies: Python, Selenium
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **📱 [NNRG Campus App](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** | Complete campus management solution deployed to Indus App Store | Android, Mobile Development |
+| **📊 Attendance Scraper** | Automated attendance tracking system using web scraping | Python, Selenium |
+| **🎯 Maven Project** | Enterprise-level Java application with Maven | Java, Maven |
 
-### 🎯 Maven Project
-**Enterprise-level Java application**
-- Project management using Maven
-- Building scalable Java applications
-- Technologies: Java, Maven
+</div>
 
-### 💼 More Projects
-Check out my repositories below for more exciting projects!
+### 💡 Project Highlights
+
+#### 📱 NNRG Campus App
+- ✅ Successfully **built and deployed** to production
+- ✅ Complete campus management solution
+- ✅ Student information system
+- ✅ Achieved deployment despite course completion challenges
+
+#### 📊 Attendance Scraper
+- ✅ Automated attendance tracking for CSE-B department
+- ✅ Web scraping solution for attendance monitoring
+- ✅ Reduces manual effort and improves accuracy
+
+#### 🎯 Maven Project
+- ✅ Enterprise-level Java application development
+- ✅ Project management using industry-standard Maven
+- ✅ Building scalable and maintainable applications
+
+> 💼 **Check out my repositories for more exciting projects!**
 
 ---
 
@@ -130,6 +135,20 @@ Check out my repositories below for more exciting projects!
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KasabuNikhilGoud&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasabuNikhilGoud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
 ---
 
 ## 🌱 Currently Learning
@@ -142,13 +161,13 @@ Check out my repositories below for more exciting projects!
 
 ---
 
-## 🎯 Goals for 2027
+## 🎯 Goals for 2024-2027
 
-✅ Contribute to open-source projects  
-✅ Build more AI-powered applications  
-✅ Complete B.Tech with excellent grades  
-✅ Secure a good placement in top tech company  
-✅ Learn cloud computing and DevOps
+- ✅ Contribute to open-source projects
+- ✅ Build more AI-powered applications
+- ✅ Complete B.Tech with excellent grades
+- ✅ Secure a good placement in top tech company
+- ✅ Learn cloud computing and DevOps
 
 ---
 
@@ -159,6 +178,8 @@ Check out my repositories below for more exciting projects!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasabunikil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasabu-nikhil-goud-949a61348/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/NikhilKasabu)
+
+</div>
 ---
 
 ## 💡 Quote
