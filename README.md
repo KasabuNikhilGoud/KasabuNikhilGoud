@@ -35,10 +35,15 @@ I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG Col
 
 ### 🏫 College Organization Contributions
 
-I actively contribute to **[NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd)**, working on college-related projects including:
+I actively contribute to **[NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd)**, working on college-related projects and resources:
 
-- **CSE-B Attendance Scraper**: Automated attendance tracking system for our department
-- **Mail Templates**: Email template system for college communications  
+- **📊 NNRG Attendance**: Automated attendance tracking system for our department
+- **🎉 TechFest**: [nnrgtechfest.vercel.app](https://nnrgtechfest.vercel.app) - College technical festival platform
+- **🎭 Cultural Fest**: [nnrgculturalfest.vercel.app](https://nnrgculturalfest.vercel.app) - College cultural festival platform
+- **📅 NNRG Timetable**: Timetable management system for students
+- **🏆 MeritTrack**: Student merit tracking and performance monitoring system
+- **🤖 AI Lab Manual**: [ailabmanual.vercel.app](https://ailabmanual.vercel.app) - Comprehensive AI lab practice guide
+- **📧 Mail Templates**: Email template system for college communications
 - Various college management and automation tools
 
 ---
