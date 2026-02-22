@@ -32,6 +32,7 @@ I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG Col
 - 🎯 Goal: To contribute to open-source and build impactful technology solutions
 - 💼 Open to collaboration on exciting projects
 - 📧 Reach me at: **kasabunikil@gmail.com**
+- 🌐 Personal Website: **[kasabunikhilgoud.online](https://kasabunikhilgoud.online)**
 
 ### 🏫 College Organization Contributions
 
@@ -177,6 +178,7 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasabunikil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasabu-nikhil-goud-949a61348/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/NikhilKasabu)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kasabunikhilgoud.online)
 
 </div>
 ---
