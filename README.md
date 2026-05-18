@@ -28,8 +28,6 @@ I'm a **4th year B.Tech Computer Science and Engineering student** at **NNRG Col
 
 - 🚀 Built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store
 - 💡 Love experimenting with AI-assisted applications and automation tools  
-- 🌱 Currently learning advanced full-stack development and AI/ML  
-- 🎯 Goal: To contribute to open-source and build impactful technology solutions
 - 💼 Open to collaboration on exciting ideas
 - 📧 Reach me at: **kasabunikil@gmail.com**
 - 🌐 Personal Website: **[kasabunikhilgoud.online](https://kasabunikhilgoud.online)**
@@ -113,25 +111,6 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
-- 🔥 Advanced React and Full-Stack Development
-- 🤖 Deep Learning and Neural Networks
-- ☁️ Cloud Technologies (AWS, Azure)
-- 🐳 Docker and Kubernetes
-- 📊 Data Science and Analytics
-
----
-
-## 🎯 Goals for 2024-2027
-
-- ✅ Contribute to open-source projects
-- ✅ Build more AI-powered applications
-- ✅ Complete B.Tech with excellent grades
-- ✅ Secure a good placement in top tech company
-- ✅ Learn cloud computing and DevOps
-
 ---
 
 ## 📫 Connect With Me
