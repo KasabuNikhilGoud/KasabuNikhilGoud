@@ -24,28 +24,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2027). I'm passionate about building innovative applications and exploring AI/ML technologies.
+I'm a **4th year B.Tech Computer Science and Engineering student** at **NNRG College** (graduating 2027). I'm passionate about building innovative applications and exploring AI/ML technologies.
 
 - 🚀 Built and deployed the **[nnrg campus](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** app to the Indus app store
 - 💡 Love experimenting with AI-assisted applications and automation tools  
 - 🌱 Currently learning advanced full-stack development and AI/ML  
 - 🎯 Goal: To contribute to open-source and build impactful technology solutions
-- 💼 Open to collaboration on exciting projects
+- 💼 Open to collaboration on exciting ideas
 - 📧 Reach me at: **kasabunikil@gmail.com**
 - 🌐 Personal Website: **[kasabunikhilgoud.online](https://kasabunikhilgoud.online)**
 
 ### 🏫 College Organization Contributions
 
-I actively contribute to **[NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd)**, working on college-related projects and resources:
-
-- **📊 NNRG Attendance**: Automated attendance tracking system for our department
-- **🎉 TechFest**: [nnrgtechfest.vercel.app](https://nnrgtechfest.vercel.app) - College technical festival platform
-- **🎭 Cultural Fest**: [nnrgculturalfest.vercel.app](https://nnrgculturalfest.vercel.app) - College cultural festival platform
-- **📅 NNRG Timetable**: Timetable management system for students
-- **🏆 MeritTrack**: Student merit tracking and performance monitoring system
-- **🤖 AI Lab Manual**: [ailabmanual.vercel.app](https://ailabmanual.vercel.app) - Comprehensive AI lab practice guide
-- **📧 Mail Templates**: Email template system for college communications
-- Various college management and automation tools
+I actively contribute to **[NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd)** on academic resources and automation initiatives.
 
 ---
 
@@ -91,34 +82,6 @@ I actively contribute to **[NNRG College GitHub Organization](https://github.com
 - **IDEs:** VS Code, Android Studio
 - **Automation:** Selenium, Web Scraping
 - **Other:** Database Management Tools
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **📱 [NNRG Campus App](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus)** | Complete campus management solution deployed to Indus App Store | Android, Mobile Development |
-| **📊 Attendance Scraper** | Automated attendance tracking system using web scraping | Python, Selenium |
-
-</div>
-
-### 💡 Project Highlights
-
-#### 📱 NNRG Campus App
-- ✅ Successfully **built and deployed** to production
-- ✅ Complete campus management solution
-- ✅ Student information system
-- ✅ Achieved deployment despite course completion challenges
-
-#### 📊 Attendance Scraper
-- ✅ Automated attendance tracking for CSE-B department
-- ✅ Web scraping solution for attendance monitoring
-- ✅ Reduces manual effort and improves accuracy
-
-> 💼 **Check out my repositories for more exciting projects!**
 
 ---
 
