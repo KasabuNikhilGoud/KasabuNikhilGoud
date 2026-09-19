@@ -43,10 +43,3 @@ Software Development, AI/ML, Mobile App Development, Web Technologies
 ### Featured
 
 **NNRG Campus App** — Campus app for students. Available on the [Indus App Store](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus).
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasabuNikhilGoud&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1d1d1f&text_color=515154&icon_color=1d1d1f)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasabuNikhilGoud&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=1d1d1f&text_color=515154)
-
-</div>
