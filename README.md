@@ -14,10 +14,10 @@
 
 ### About
 
-<p><font size="5">I'm a Computer Science student who turns ideas into real products. I designed and shipped the <strong>NNRG Campus App</strong> to the Indus App Store — built for students, used every day. I focus on <strong>clean design, useful applications, and AI-assisted experiences</strong>. The result is <strong>simple software that just works</strong>. I'm <strong>open to collaboration</strong>.</font></p>
+<p><font size="5">I'm a Computer Science student who turns ideas into real products. I focus on <strong>clean design, useful applications, and AI-assisted experiences</strong>. The result is <strong>simple software that just works</strong>. I'm <strong>open to collaboration</strong>.</font></p>
 
 </div>
 
 ### Projects
 
-<p><font size="4"><strong>NNRG Campus App</strong> — Campus app for students. Available on the <a href="https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus">Indus App Store</a>.</font></p>
+<p><font size="4">— I will update shortly.</font></p>
