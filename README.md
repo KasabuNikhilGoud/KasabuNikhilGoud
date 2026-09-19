@@ -16,7 +16,7 @@
 
 ### About
 
-<p><font size="4">I'm a 4th-year Computer Science student who turns ideas into real products. I designed and shipped the <strong>NNRG Campus App</strong> to the Indus App Store — built for students, used every day. I focus on <strong>clean design, useful applications, and AI-assisted experiences</strong>. The result is <strong>simple software that just works</strong>. I'm <strong>open to collaboration</strong>.</font></p>
+<p><font size="5">I'm a 4th-year Computer Science student who turns ideas into real products. I designed and shipped the <strong>NNRG Campus App</strong> to the Indus App Store — built for students, used every day. I focus on <strong>clean design, useful applications, and AI-assisted experiences</strong>. The result is <strong>simple software that just works</strong>. I'm <strong>open to collaboration</strong>.</font></p>
 
 </div>
 
