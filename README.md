@@ -12,11 +12,13 @@ CS Student · Full-Stack Developer · App Developer · AI Enthusiast
 
 ---
 
+<div align="center">
+
 ### About
 
-Built and deployed the [NNRG Campus App](https://www.indusappstore.com/apps/education/nnrg-campus/com.example.nnrgcampus/?page=details&id=com.example.nnrgcampus) to the Indus App Store. Interested in useful applications, AI-assisted apps, and automation. Open to collaboration.
+<p>I'm a 4th-year Computer Science student who turns ideas into real products. I designed and shipped the <strong>NNRG Campus App</strong> to the Indus App Store — built for students, used every day. I focus on <strong>clean design, useful applications, and AI-assisted experiences</strong>. The result is <strong>simple software that just works</strong>. I'm <strong>open to collaboration</strong> and contribute to the <a href="https://github.com/nnrgeduin-hyd">NNRG College GitHub Organization</a>.</p>
 
-Contribute to [NNRG College GitHub Organization](https://github.com/nnrgeduin-hyd).
+</div>
 
 ### Education
 
